@@ -1,7 +1,2 @@
-bbbb
-
-BBBBBBBBBBBB
-
-second letter of the alphabet
-bbb
-b
+ccc
+C
